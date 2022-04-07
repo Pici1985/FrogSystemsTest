@@ -1,4 +1,6 @@
-# FrogTest
+# FrogSystemsTest
+
+The project has been built in Vue 3, as I`ve been told that that is what the company uses. 
 
 This template should help get you started developing with Vue 3 in Vite.
 
